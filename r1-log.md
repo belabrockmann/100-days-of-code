@@ -10,3 +10,6 @@ Started making a markdown to html converter for writing blog articles.
 ### R1D2
 Continued work on the markdown to html converter. 
 Read a but about react-router.
+
+### R1D3
+Continued the freecodecamp curriculum by watching a course about d3.js.
