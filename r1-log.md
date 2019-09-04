@@ -13,3 +13,6 @@ Read a but about react-router.
 
 ### R1D3
 Continued the freecodecamp curriculum by watching a course about d3.js.
+
+### R1D4
+Continued with the 13 hour d3.js video tutorial.
