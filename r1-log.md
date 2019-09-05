@@ -16,3 +16,7 @@ Continued the freecodecamp curriculum by watching a course about d3.js.
 
 ### R1D4
 Continued with the 13 hour d3.js video tutorial.
+
+### R1D5
+Finished a section on animations and Transition with d3.js.
+Began with a section on making a world map.
