@@ -20,3 +20,6 @@ Continued with the 13 hour d3.js video tutorial.
 ### R1D5
 Finished a section on animations and Transition with d3.js.
 Began with a section on making a world map.
+
+### R1D6
+Made an interactive world map with d3.js
