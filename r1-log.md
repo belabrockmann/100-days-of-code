@@ -23,3 +23,6 @@ Began with a section on making a world map.
 
 ### R1D6
 Made an interactive world map with d3.js
+
+### R1D7
+Began work on a choropleth map.
