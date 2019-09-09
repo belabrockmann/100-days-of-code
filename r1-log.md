@@ -29,3 +29,6 @@ Began work on a choropleth map.
 
 ### R1D8 
 Made significant progress on the choropleth map.
+
+### R1D9 
+Finished the choropleth map. 
