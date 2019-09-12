@@ -35,3 +35,6 @@ Finished the choropleth map.
 
 ### R1D10
 Began making a heatmap. Also watched a video about the different programming paradigms.
+
+### R1D11
+Made progress on the heatmap and made many dumb mistakes.
