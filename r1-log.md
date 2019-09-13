@@ -38,3 +38,6 @@ Began making a heatmap. Also watched a video about the different programming par
 
 ### R1D11
 Made progress on the heatmap and made many dumb mistakes.
+
+### R1D12
+Finished and submitted the heat map.
