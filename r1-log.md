@@ -41,3 +41,6 @@ Made progress on the heatmap and made many dumb mistakes.
 
 ### R1D12
 Finished and submitted the heat map.
+
+### R1D13
+Watched 1 hour of CS50.
