@@ -44,3 +44,6 @@ Finished and submitted the heat map.
 
 ### R1D13
 Watched 1 hour of CS50.
+
+### R1D14
+Finished one video lecture of CS50 and began making a treemap diagram.
