@@ -47,3 +47,6 @@ Watched 1 hour of CS50.
 
 ### R1D14
 Finished one video lecture of CS50 and began making a treemap diagram.
+
+### R1D15
+Made significant progress on the treemap diagram. 
