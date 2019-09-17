@@ -50,3 +50,6 @@ Finished one video lecture of CS50 and began making a treemap diagram.
 
 ### R1D15
 Made significant progress on the treemap diagram. 
+
+### R1D16
+Finished work on the treemap diagram. Began worknon the freeCodeCamp Backend-Course.
