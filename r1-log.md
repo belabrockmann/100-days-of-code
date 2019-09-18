@@ -52,4 +52,7 @@ Finished one video lecture of CS50 and began making a treemap diagram.
 Made significant progress on the treemap diagram. 
 
 ### R1D16
-Finished work on the treemap diagram. Began worknon the freeCodeCamp Backend-Course.
+Finished work on the treemap diagram. Began workn on the freeCodeCamp Backend-Course.
+
+### R1D17
+Watched a npm tutorial and did some npm challenges on freecodecamp. Also began learning Express.js.
