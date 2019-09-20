@@ -59,3 +59,6 @@ Watched a npm tutorial and did some npm challenges on freecodecamp. Also began l
 
 ### R1D18
 Worked for one hour on a single freecodecamp node.js challenge. I couldn't get it to work, no matter how long I tried. It works for me, but my solution doesn't pass the tests.
+
+### R1D19
+Tried the same problem again. It didn't work.
