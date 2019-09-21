@@ -62,3 +62,6 @@ Worked for one hour on a single freecodecamp node.js challenge. I couldn't get i
 
 ### R1D19
 Tried the same problem again. It didn't work.
+
+### R1D20
+Finally solved the problem. Continued with the freecodecamp backend curriculum.
