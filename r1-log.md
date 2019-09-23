@@ -68,3 +68,6 @@ Finally solved the problem. Continued with the freecodecamp backend curriculum.
 
 ### R1D21
 Began work on the mongodb challenges. Also forgot to update this repo.
+
+### R1D22
+Continued work on the mongodb challenges.
