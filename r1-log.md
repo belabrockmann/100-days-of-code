@@ -74,3 +74,6 @@ Continued work on the mongodb challenges.
 
 ### R1D23
 Finished the mongodb challenges. Then started a project to learn more about the MERN stack. I am following along with [this video](https://www.youtube.com/watch?v=7CqJlxBYj-M&t=659s).
+
+### R1D24
+Had a really stressful day. Managed to get my one hour of coding in but forgot to post it. Did some backend development with node.js
