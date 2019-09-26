@@ -77,3 +77,6 @@ Finished the mongodb challenges. Then started a project to learn more about the 
 
 ### R1D24
 Had a really stressful day. Managed to get my one hour of coding in but forgot to post it. Did some backend development with node.js
+
+### R1D25
+Continued with the React.js frontend of my mern application.
