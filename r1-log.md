@@ -80,3 +80,6 @@ Had a really stressful day. Managed to get my one hour of coding in but forgot t
 
 ### R1D25
 Continued with the React.js frontend of my mern application.
+
+### R1D26
+Today was quite productive. I finished the application. 
