@@ -83,3 +83,6 @@ Continued with the React.js frontend of my mern application.
 
 ### R1D26
 Today was quite productive. I finished the application. 
+
+### R1D27
+Today I did two small projects with node.js. 
