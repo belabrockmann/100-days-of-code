@@ -89,3 +89,6 @@ Today I did two small projects with node.js.
 
 ### R1D28 
 Today I did something completely different. I began work on a website using only html and css.
+
+### R1D29
+I continued with the small website project. I was really fun and interesting.
