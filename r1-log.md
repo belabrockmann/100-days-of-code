@@ -95,3 +95,6 @@ I continued with the small website project. I was really fun and interesting.
 
 ### R1D30
 I worked some more on the website. Realized that I really need to improve my CSS skills.
+
+### R1D31
+Started a lecture on Responsive Web Design. Learned more about CSS-Units.
