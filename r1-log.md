@@ -98,3 +98,6 @@ I worked some more on the website. Realized that I really need to improve my CSS
 
 ### R1D31
 Started a lecture on Responsive Web Design. Learned more about CSS-Units.
+
+### R1D32
+Continued the work. Learnt something about styling a navbar.
