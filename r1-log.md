@@ -101,3 +101,6 @@ Started a lecture on Responsive Web Design. Learned more about CSS-Units.
 
 ### R1D32
 Continued the work. Learned something about styling a navbar.
+
+### R1D33
+Continued. Learned about the mobile-first approach.
