@@ -104,3 +104,6 @@ Continued the work. Learned something about styling a navbar.
 
 ### R1D33
 Continued. Learned about the mobile-first approach.
+
+### R1D34
+Finished the lecture. Read a bit about web design.
