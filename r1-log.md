@@ -107,3 +107,6 @@ Continued. Learned about the mobile-first approach.
 
 ### R1D34
 Finished the lecture. Read a bit about web design.
+
+### R1D35
+Did some Backend development with express and mongoose.
