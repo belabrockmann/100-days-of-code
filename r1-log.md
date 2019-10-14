@@ -116,3 +116,6 @@ I am back. To get Back into development I started a follow-along video tutorial 
 
 ### R1D37
 Continued with the tutorial.
+
+### R1D38
+Nearly finished the tutorial.
