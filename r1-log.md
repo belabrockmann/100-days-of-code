@@ -112,4 +112,7 @@ Finished the lecture. Read a bit about web design.
 Did some Backend development with express and mongoose.
 
 ### R1D36
-I an back. To get Back into development I started a follow-along video tutorial with the MERN stack.
+I am back. To get Back into development I started a follow-along video tutorial with the MERN stack.
+
+### R1D37
+Continued with the tutorial.
