@@ -119,3 +119,6 @@ Continued with the tutorial.
 
 ### R1D38
 Nearly finished the tutorial.
+
+### R1D39
+Original plan was to finish the tutorial. Instead I watched a talk about React Hooks.
