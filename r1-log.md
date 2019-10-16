@@ -122,3 +122,6 @@ Nearly finished the tutorial.
 
 ### R1D39
 Original plan was to finish the tutorial. Instead I watched a talk about React Hooks. 
+
+### R1D40
+Finally finished the video tutorial. Also read a but about React Hooks, React Router and React Native.
