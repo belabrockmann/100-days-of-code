@@ -125,3 +125,6 @@ Original plan was to finish the tutorial. Instead I watched a talk about React H
 
 ### R1D40
 Finally finished the video tutorial. Also read a but about React Hooks, React Router and React Native.
+
+### R1D41
+Experimented with React Router and Express.
