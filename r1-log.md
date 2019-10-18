@@ -128,3 +128,6 @@ Finally finished the video tutorial. Also read a but about React Hooks, React Ro
 
 ### R1D41
 Experimented with React Router and Express.
+
+### R1D42
+Did some CSS, also started a small project. It's a [simple-todo-app](https://github.com/clab02/simple-todo-app) with React and Express.js
