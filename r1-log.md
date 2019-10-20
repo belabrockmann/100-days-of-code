@@ -134,3 +134,6 @@ Did some CSS, also started a small project. It's a [simple-todo-app](https://git
 
 ### R1D43
 Enrolled in the [Responsive Web Design Bootcamp on Scrimba](https://scrimba.com/g/gresponsive).
+
+### R144
+Continued with the course. It is really great.
