@@ -131,3 +131,6 @@ Experimented with React Router and Express.
 
 ### R1D42
 Did some CSS, also started a small project. It's a [simple-todo-app](https://github.com/clab02/simple-todo-app) with React and Express.js
+
+### R1D43
+Enrolled in the [Responsive Web Design Bootcamp on Scrimba](https://scrimba.com/g/gresponsive).
