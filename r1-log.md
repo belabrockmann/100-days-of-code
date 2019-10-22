@@ -140,3 +140,6 @@ Continued with the course. It is really great.
 
 ### R1D45
 Continued. Built some navbars and made them responsive. 
+
+### R1D46
+Finished the second module of the course. Built a fully responsive website today.
