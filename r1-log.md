@@ -143,3 +143,6 @@ Continued. Built some navbars and made them responsive.
 
 ### R1D46
 Finished the second module of the course. Built a fully responsive website today.
+
+### R1D47
+Started to build the website, that I built during the course, again; just to practise.
