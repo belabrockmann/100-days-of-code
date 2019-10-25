@@ -149,3 +149,6 @@ Started to build the website, that I built during the course, again; just to pra
 
 ### R1D48
 Continued with the website. I am nearly finished. It's great for reinforcing the already learnt stuff.
+
+### R1D49
+Completed the small practise project. It went really well. Also read an article about the proper sizing of images for websites and I began work on a website for a family member.
