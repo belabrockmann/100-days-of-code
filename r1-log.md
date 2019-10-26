@@ -152,3 +152,6 @@ Continued with the website. I am nearly finished. It's great for reinforcing the
 
 ### R1D49
 Completed the small practise project. It went really well. Also read an article about the proper sizing of images for websites and I began work on a website for a family member.
+
+### R1D50
+Did the initial setup for the website. Created files, made links, a navbar and a footer.
