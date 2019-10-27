@@ -155,3 +155,6 @@ Completed the small practise project. It went really well. Also read an article 
 
 ### R1D50
 Did the initial setup for the website. Created files, made links, a navbar and a footer.
+
+### R1D51
+Continued with the website. I experimented a lot with implementing an only-css image slideshow. I'll continue with that tomorrow.
