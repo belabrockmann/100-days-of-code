@@ -158,3 +158,6 @@ Did the initial setup for the website. Created files, made links, a navbar and a
 
 ### R1D51
 Continued with the website. I experimented a lot with implementing an only-css image slideshow. I'll continue with that tomorrow.
+
+### R1D52
+Got the slideshow working, but the layout has to be adapted.
