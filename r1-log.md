@@ -161,3 +161,6 @@ Continued with the website. I experimented a lot with implementing an only-css i
 
 ### R1D52
 Got the slideshow working, but the layout has to be adapted.
+
+### R1D53
+Decided to continue with the The Responsive Web Design Bootcamp on scrimba, before continuing on with the new website.
