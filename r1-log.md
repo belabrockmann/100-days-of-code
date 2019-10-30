@@ -164,3 +164,6 @@ Got the slideshow working, but the layout has to be adapted.
 
 ### R1D53
 Decided to continue with the The Responsive Web Design Bootcamp on scrimba, before continuing on with the new website.
+
+### R1D54
+Continued with the course. Learned more about viewport units and Responsiveness.
