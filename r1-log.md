@@ -167,3 +167,6 @@ Decided to continue with the The Responsive Web Design Bootcamp on scrimba, befo
 
 ### R1D54
 Continued with the course. Learned more about viewport units and Responsiveness.
+
+### R1D55 
+Finished the section "Stepping up your style". Learned a lot about styling form and blend-modes.
