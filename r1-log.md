@@ -170,3 +170,6 @@ Continued with the course. Learned more about viewport units and Responsiveness.
 
 ### R1D55 
 Finished the section "Stepping up your style". Learned a lot about styling form and blend-modes.
+
+### R1D56
+Rebuilt the website of the last section. 
