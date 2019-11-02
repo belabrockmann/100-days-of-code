@@ -173,3 +173,6 @@ Finished the section "Stepping up your style". Learned a lot about styling form 
 
 ### R1D56
 Rebuilt the website of the last section. 
+
+### R1D57
+Began with the section about flex-box. Learned more about flex-basis and other stuff.
