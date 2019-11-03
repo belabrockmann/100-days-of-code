@@ -176,3 +176,6 @@ Rebuilt the website of the last section.
 
 ### R1D57
 Began with the section about flex-box. Learned more about flex-basis and other stuff.
+
+### R1D58
+Finished the section on flex-box on scrimba. Also experimented with flex-basis (and relative units) for styling small responsive elements.
