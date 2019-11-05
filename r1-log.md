@@ -182,3 +182,6 @@ Finished the section on flex-box on scrimba. Also experimented with flex-basis (
 
 ### R1D59
 Started with the section on CSS grid. Learned more about grid-template-areas.
+
+### R1D60
+Finished the section on CSS grid. Also read some articles about the best practices for using it.
