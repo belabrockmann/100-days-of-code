@@ -185,3 +185,6 @@ Started with the section on CSS grid. Learned more about grid-template-areas.
 
 ### R1D60
 Finished the section on CSS grid. Also read some articles about the best practices for using it.
+
+### R1D61
+Began with the last section of The Responsive Web Development Bootcamp. Started by creating a website from scratch.
