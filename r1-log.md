@@ -188,3 +188,6 @@ Finished the section on CSS grid. Also read some articles about the best practic
 
 ### R1D61
 Began with the last section of The Responsive Web Development Bootcamp. Started by creating a website from scratch.
+
+### R1D62
+Continued with the section. Learned different thing about making responsive navbars.
