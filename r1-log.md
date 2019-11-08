@@ -191,3 +191,6 @@ Began with the last section of The Responsive Web Development Bootcamp. Started 
 
 ### R1D62
 Continued with the section. Learned different thing about making responsive navbars.
+
+### R1D63
+Finished the course! Researched UI design tools. I am planning to start learning figma and the design some websites.
