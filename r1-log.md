@@ -194,3 +194,6 @@ Continued with the section. Learned different thing about making responsive navb
 
 ### R1D63
 Finished the course! Researched UI design tools. I am planning to start learning figma and the design some websites.
+
+### R1D64
+Watched Videos about figma and did some experiments with it.
