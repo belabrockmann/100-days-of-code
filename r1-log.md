@@ -197,3 +197,6 @@ Finished the course! Researched UI design tools. I am planning to start learning
 
 ### R1D64
 Watched Videos about figma and did some experiments with it.
+
+### R1D65
+Watched some other videos about figma and design.
