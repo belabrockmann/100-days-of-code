@@ -200,3 +200,6 @@ Watched Videos about figma and did some experiments with it.
 
 ### R1D65
 Watched some other videos about figma and design.
+
+### R1D66
+My initial plan was to copy some websites with figma and then recreate them. But I decided to build a portfolio template for developers.
