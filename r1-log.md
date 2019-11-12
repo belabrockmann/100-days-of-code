@@ -203,3 +203,6 @@ Watched some other videos about figma and design.
 
 ### R1D66
 My initial plan was to copy some websites with figma and then recreate them. But I decided to build a portfolio template for developers.
+
+### R1D67
+Continued on with the portfolio design and read some technical articles.
