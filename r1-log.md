@@ -206,3 +206,6 @@ My initial plan was to copy some websites with figma and then recreate them. But
 
 ### R1D67
 Continued on with the portfolio design and read some technical articles.
+
+### R1D68
+Designed some more and watched some Videos by Kevin Powell about CSS and SASS.
