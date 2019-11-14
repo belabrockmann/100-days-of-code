@@ -209,3 +209,6 @@ Continued on with the portfolio design and read some technical articles.
 
 ### R1D68
 Designed some more and watched some Videos by Kevin Powell about CSS and SASS.
+
+### R1D69
+Finished the design. It's ok, but I've decided to learn to design properly over the next couple days.
