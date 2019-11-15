@@ -212,3 +212,6 @@ Designed some more and watched some Videos by Kevin Powell about CSS and SASS.
 
 ### R1D69
 Finished the design. It's ok, but I've decided to learn to design properly over the next couple days.
+
+### R1D70 
+Watched [this](https://www.youtube.com/watch?v=_Hp_dI0DzY4) tutorial on design. Now I know about the basic design principles and how to apply them.
