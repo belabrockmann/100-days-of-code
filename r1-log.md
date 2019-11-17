@@ -218,3 +218,6 @@ Watched [this](https://www.youtube.com/watch?v=_Hp_dI0DzY4) tutorial on design. 
 
 ### R1D71
 Watched some videos about CSS, new design trends and about identity/logo design.
+
+### R1D72
+Didn't really know what to do. I experimented a bit with Express.js and started a React.js course.
