@@ -224,3 +224,6 @@ Didn't really know what to do. I experimented a bit with Express.js and started 
 
 ### R1D73
 Just watched some Videos about design. Lacking motivation at the moment.
+
+### R1D74
+I am back! Today I took the time to redesign a logo. I don't have proper software for icon design, but I was able to do it with figma.
