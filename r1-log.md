@@ -227,3 +227,6 @@ Just watched some Videos about design. Lacking motivation at the moment.
 
 ### R1D74
 I am back! Today I took the time to redesign a logo. I don't have proper software for icon design, but I was able to do it with figma.
+
+### R1D75
+Made some final adjustments to the logo and used it in a design. Also watched a Video about Logo design.
