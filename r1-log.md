@@ -230,3 +230,6 @@ I am back! Today I took the time to redesign a logo. I don't have proper softwar
 
 ### R1D75
 Made some final adjustments to the logo and used it in a design. Also watched a Video about Logo design.
+
+### R1D76
+Watched some some videos about design again. I also found out about a great tool called Sizzy.
