@@ -233,3 +233,6 @@ Made some final adjustments to the logo and used it in a design. Also watched a 
 
 ### R1D76
 Watched some some videos about design again. I also found out about a great tool called Sizzy.
+
+### R1D77
+Watched some videos about design and cross-browser compatability.
