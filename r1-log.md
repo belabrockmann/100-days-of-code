@@ -236,3 +236,6 @@ Watched some some videos about design again. I also found out about a great tool
 
 ### R1D77
 Watched some videos about design and cross-browser compatability.
+
+### R1D78
+Installed some figma plugins and began creating a layout for a todo app I want to build with React.js in the future.
