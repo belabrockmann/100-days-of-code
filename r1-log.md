@@ -239,3 +239,6 @@ Watched some videos about design and cross-browser compatability.
 
 ### R1D78
 Installed some figma plugins and began creating a layout for a todo app I want to build with React.js in the future.
+
+### R1D79
+Finished the layout and began the implementation in React.
