@@ -242,3 +242,6 @@ Installed some figma plugins and began creating a layout for a todo app I want t
 
 ### R1D79
 Finished the layout and began the implementation in React.
+
+### R1D80
+Implemented the layout and made it responsive.
