@@ -248,3 +248,6 @@ Implemented the layout and made it responsive.
 
 ### R1D81
 Started work on the edit page. Having trouble accessing url parameters with React.
+
+### R1D82
+Solved the problem with the url parameters. Now I habe trouble updating a component based on localStorage.
