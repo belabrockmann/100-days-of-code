@@ -251,3 +251,6 @@ Started work on the edit page. Having trouble accessing url parameters with Reac
 
 ### R1D82
 Solved the problem with the url parameters. Now I habe trouble updating a component based on localStorage.
+
+### R1D83
+Didn't solve the update problem, because I had to find a way to properly store the data in localStorage. Not easy.
