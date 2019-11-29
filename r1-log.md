@@ -254,3 +254,6 @@ Solved the problem with the url parameters. Now I habe trouble updating a compon
 
 ### R1D83
 Didn't solve the update problem, because I had to find a way to properly store the data in localStorage. Not easy.
+
+### R1D84
+Got the most of the data handling finished, also found a solution for the updating issue (a really stupid solution, but it works).
