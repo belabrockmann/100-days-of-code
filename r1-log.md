@@ -257,3 +257,6 @@ Didn't solve the update problem, because I had to find a way to properly store t
 
 ### R1D84
 Got the most of the data handling finished, also found a solution for the updating issue (a really stupid solution, but it works).
+
+### R1D85
+Added all the functionality that was missing. Got the app fully working now.
