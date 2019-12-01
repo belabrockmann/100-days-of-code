@@ -260,3 +260,6 @@ Got the most of the data handling finished, also found a solution for the updati
 
 ### R1D85
 Added all the functionality that was missing. Got the app fully working now.
+
+### R1D86
+Fixed some bugs and made sure that the state of each task is also saved in localStorage. Also wrote the README.
