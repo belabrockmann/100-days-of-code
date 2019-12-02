@@ -263,3 +263,6 @@ Added all the functionality that was missing. Got the app fully working now.
 
 ### R1D86
 Fixed some bugs and made sure that the state of each task is also saved in localStorage. Also wrote the README.
+
+### R1D87
+Began writing my first blog article. It's about React Fragments.
