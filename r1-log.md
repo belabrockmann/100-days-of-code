@@ -266,3 +266,6 @@ Fixed some bugs and made sure that the state of each task is also saved in local
 
 ### R1D87
 Began writing my first blog article. It's about React Fragments.
+
+### R1D88
+I think I'm finished with the article. Want to release it next Monday. Also watched a short video about logo design.
