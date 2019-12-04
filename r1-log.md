@@ -269,3 +269,6 @@ Began writing my first blog article. It's about React Fragments.
 
 ### R1D88
 I think I'm finished with the article. Want to release it next Monday. Also watched a short video about logo design.
+
+### R1D89
+Today I was in the mood for some React, so I continued wirh the React Bootcamp on Scrimba. I also watched some Videos about High-Order-Components.
