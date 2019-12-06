@@ -275,3 +275,6 @@ Today I was in the mood for some React, so I continued with the React Bootcamp o
 
 ### R1D90
 Still learning about HOCs. They are a quite difficult concept to grasp for me. I think I'll best learn it by writing a blog article about it, so that's what I'm gonna do over the next few days.
+
+### R1D91
+Watched some tutorials on HOCs. I also started designing a template title image for future blog articles.
