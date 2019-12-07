@@ -278,3 +278,6 @@ Still learning about HOCs. They are a quite difficult concept to grasp for me. I
 
 ### R1D91
 Watched some tutorials on HOCs. I also started designing a template title image for future blog articles.
+
+### R1D92
+Wasn't really motivated. Just watched a video about HOCs and render props.
