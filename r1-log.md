@@ -281,3 +281,6 @@ Watched some tutorials on HOCs. I also started designing a template title image 
 
 ### R1D92
 Wasn't really motivated. Just watched a video about HOCs and render props.
+
+### R1D93
+Only worked in figma today.I'm learning more about the workflow. I'm currently designing some template for Blog articles and another project.
