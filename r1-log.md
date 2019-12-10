@@ -286,4 +286,7 @@ Wasn't really motivated. Just watched a video about HOCs and render props.
 Only worked in figma today.I'm learning more about the workflow. I'm currently designing some template for Blog articles and another project.
 
 ### R1D94
-Again, only die design work and planning. I have something cool for the future. 
+Again, only did design work and planning. I have something cool for the future. 
+
+### R1D95
+Another day spent in figma. Designing is a lot of fun, I really like it. 
