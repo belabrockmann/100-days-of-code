@@ -290,3 +290,6 @@ Again, only did design work and planning. I have something cool for the future.
 
 ### R1D95
 Another day spent in figma. Designing is a lot of fun, I really like it. 
+
+### R1D96
+Continued with the designs. Also watched some Videos in CSS and UI/UX design.
