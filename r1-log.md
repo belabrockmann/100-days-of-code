@@ -293,3 +293,6 @@ Another day spent in figma. Designing is a lot of fun, I really like it.
 
 ### R1D96
 Continued with the designs. Also watched some Videos in CSS and UI/UX design.
+
+### R1D97
+Nearly finished the designs. I'm getting somewhere!
