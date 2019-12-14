@@ -299,3 +299,6 @@ Nearly finished the designs. I'm getting somewhere!
 
 ### R1D98
 Began work on my second blog article. I know I'm just starting out and I find it really difficult, especially as English isn't my mother tongue. Anyway, I believe that it's a great opportunity to improve my writing skills.
+
+### R1D99
+Didn't get much done. Started another article, the hoc one has to wait.
