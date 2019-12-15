@@ -302,3 +302,6 @@ Began work on my second blog article. I know I'm just starting out and I find it
 
 ### R1D99
 Didn't get much done. Started another article, the hoc one has to wait.
+
+### R1D100
+Finished the article. It'll be published tomorrow. Now I that I finished the challenge, I'll write an article about it and my experiences, as well as what I've learned.
