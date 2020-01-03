@@ -13,3 +13,6 @@ https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f
 
 ### R2D2
 Learned more about GraphQL and continued with the official Gatsby tutorial.
+
+### R2D3
+Learned about creating dynamically for markdown files in Gatsby. 
