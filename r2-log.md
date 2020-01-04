@@ -16,3 +16,6 @@ Learned more about GraphQL and continued with the official Gatsby tutorial.
 
 ### R2D3
 Learned about creating dynamically for markdown files in Gatsby. 
+
+### R2D4
+Learned about building a blog with Gatsby.
