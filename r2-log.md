@@ -19,3 +19,6 @@ Learned about creating dynamically for markdown files in Gatsby.
 
 ### R2D4
 Learned about building a blog with Gatsby.
+
+### R2D5
+Began work on a new tutorial. I'm learning to use styling in Gatsby.
