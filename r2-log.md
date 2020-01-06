@@ -22,3 +22,6 @@ Learned about building a blog with Gatsby.
 
 ### R2D5
 Began work on a new tutorial. I'm learning to use styling in Gatsby.
+
+### R2D6
+Continued with the tutorial. I'm getting better! :)
