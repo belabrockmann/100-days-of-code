@@ -25,3 +25,6 @@ Began work on a new tutorial. I'm learning to use styling in Gatsby.
 
 ### R2D6
 Continued with the tutorial. I'm getting better! :)
+
+### R2D7
+Build a blog from scratch and styled it. I'm not finished yet, but it already looks great.
