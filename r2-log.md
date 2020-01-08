@@ -28,3 +28,6 @@ Continued with the tutorial. I'm getting better! :)
 
 ### R2D7
 Build a blog from scratch and styled it. I'm not finished yet, but it already looks great.
+
+### R2D8
+Learned about using the Contentful CMS with Gatsby.
