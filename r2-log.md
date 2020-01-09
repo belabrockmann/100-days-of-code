@@ -31,3 +31,6 @@ Build a blog from scratch and styled it. I'm not finished yet, but it already lo
 
 ### R2D8
 Learned about using the Contentful CMS with Gatsby.
+
+### R2D9 (not really)
+Used Contentful to render a list of blog posts. Because of lots of stress and other stuff I wasn't able to code for an hour. I will catch up on the weekend.
