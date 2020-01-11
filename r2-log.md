@@ -34,3 +34,9 @@ Learned about using the Contentful CMS with Gatsby.
 
 ### R2D9 (not really)
 Used Contentful to render a list of blog posts. Because of lots of stress and other stuff I wasn't able to code for an hour. I will catch up on the weekend.
+
+### R2D10
+Was sick, so I couldn't code
+
+### R2D11
+Learned more about rendering Contentful Blog Post and about React Helmet.
