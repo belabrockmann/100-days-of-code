@@ -40,3 +40,6 @@ Was sick, so I couldn't code
 
 ### R2D11
 Learned more about rendering Contentful Blog Post and about React Helmet.
+
+### R2D12
+Got much done, learned about using Typography.js and did some styling.
