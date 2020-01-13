@@ -43,3 +43,6 @@ Learned more about rendering Contentful Blog Post and about React Helmet.
 
 ### R2D12
 Got much done, learned about using Typography.js and did some styling.
+
+### R2D13 END
+Decided to quit the challenge, die to undeniable health issued caused by too much stress.
